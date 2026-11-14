@@ -1,0 +1,34 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_PeriSSR0101_slg_cloth1_da.png": {
+    "normal": "maps/c_PeriSSR0101_slg_cloth1_da_n.png"
+  },
+  "c_PeriSSR0101_slg_cloth4_d.png": {
+    "normal": "maps/c_PeriSSR0101_slg_cloth4_d_n.png"
+  },
+  "c_PeriSSR0101_slg_cloth8_d.png": {
+    "normal": "maps/c_PeriSSR0101_slg_cloth8_d_n.png"
+  },
+  "c_PeriSSR0101_slg_cloth2_da.png": {
+    "normal": "maps/c_PeriSSR0101_slg_cloth2_da_n.png"
+  },
+  "c_Peri_slg_hair_d.png": {
+    "normal": "maps/c_Peri_slg_hair_d_n.png"
+  },
+  "c_PeriSSR0101_slg_cloth3_da.png": {
+    "normal": "maps/c_PeriSSR0101_slg_cloth3_da_n.png"
+  },
+  "c_PeriSSR0101_slg_cloth6_da.png": {
+    "normal": "maps/c_PeriSSR0101_slg_cloth6_da_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cth1-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

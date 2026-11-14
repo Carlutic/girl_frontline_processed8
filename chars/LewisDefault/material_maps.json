@@ -1,0 +1,28 @@
+{
+  "defaultPreset": "lobby",
+  "c_LewisSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_LewisSSR01_slg_cloth1_d_n.png"
+  },
+  "c_LewisSSR01_slg_cloth3_da.png": {
+    "normal": "maps/c_LewisSSR01_slg_cloth3_da_n.png"
+  },
+  "c_LewisSSR01_slg_plush_d.png": {
+    "normal": "maps/c_LewisSSR01_slg_plush_d_n.png"
+  },
+  "c_LewisSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_LewisSSR01_slg_cloth2_d_n.png"
+  },
+  "c_LewisSSR01_slg_hair_d.png": {
+    "normal": "maps/c_LewisSSR01_slg_hair_d_n.png"
+  },
+  "c_LewisSSR01_slg_xianglian_da.png": {
+    "normal": "maps/c_LewisSSR01_slg_xianglian_da_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cloth2-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}
